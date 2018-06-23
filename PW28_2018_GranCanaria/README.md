@@ -83,6 +83,7 @@ How to add this calendar to your own?
 1. Multi-Label segmentation of anatomic prostate zones in MRI (Anneke Meyer, Marko Rak, Christian Hansen)
 1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva, Raúl San José Estépar)
 1. [Custom GUI for an US simulator training system](Projects/CustomGUIForUSSimulator/Readme.md) (José Carlos Ruiz-Luque, Guillermo Valentín Socorro-Marrero, Juan Ruiz-Alzola)
+1. An adapative intelligent minimally invasive surgical training simulation system (Tina Vajsbaher)
 
 ## Registrants
 
@@ -137,7 +138,7 @@ Do not add your name to this list - it is maintained by the organizers based on 
 1. Marko Rak (rak@isg.cs.ovgu.de) - University of Magdeburg - Germany
 1. Andrei Irimia (irimia@usc.edu) - University of Southern California - USA
 1. Anneke Meyer (anneke@isg.cs.uni-magdeburg.de) - University of Magdeburg - Germany
-1. Tina Vajsbaher (tina.vajsbaher@gmail.com) - University of Bremen - Germany
+1. Tina Vajsbaher (tina.vajsbaher@uni-bremen.de) - University of Bremen - Germany
 1. Gino Gulamhussene (gino@isg.cs.ovgu.de) - Institute for Simulation and Graphics OvGU University Magdeburg - Germany 
 1. Sara Fernández Vidal (sara.fdezvidal@gmail.com) - ICM Institute - France
 1. Eric Bardinet (eric.bardinet@upmc.fr) - ICM Institute - France
